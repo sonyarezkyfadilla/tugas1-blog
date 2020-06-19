@@ -1,0 +1,14 @@
+{
+    "name": "acer/uts",
+    "description": "Praktikum 9 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "sonyarezkyfadilla",
+            "email": "sonyarezkylbs@gmail.com"
+        }
+    ]
+}
